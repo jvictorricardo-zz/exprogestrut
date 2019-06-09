@@ -1,0 +1,1 @@
+Nessa semana fiz duas versões do arquivo v3 pois fiz ele inteiro no Visual Studio (Windows) e algumas funções usadas não funcionaram ou não tinham sentido, sendo elas: O set_localle (acentuação para o CMD) e scanf_s (acho que não é implementada no gcc do linux).
